@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68d81418-373f-4563-a11d-df61dc72d524" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Bai5/bai_1/giao_dien_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai5/bai_2/dang_ky_hoc_vien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai5/bai_2/so_thich_cua_ban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinh_tong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vong_lap_for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/bai_tap_1/bai1/diem_trung_binh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/bai_tap_1/bai2/chuyen_doi_nhiet_do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/bai_tap_1/bai3/dien_tich_htron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/bai_tap_1/bai4/chu_vi_htron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/thuchanh1/bai1/th_khai_bao_bien_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/thuchanh1/bai2/th_khai_bao_bien_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/thuchanh1/bai3/th_khai_bao_bien_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai7/thuchanh2/bai1/th_toan_tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai8/thuc_hanh_1/ktr_nam_nhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai8/thuc_hanh_2/bt_thuc_hanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai8/thuc_hanh_3/th_if_else_if.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai8/thuc_hanh_4/th_cau_truc_sc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai8/thuc_hanh_4/th_cau_truc_sc_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai8/thuc_hanh_5/bai_1/th_3_ngoi_bai_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai8/thuc_hanh_5/bai_2/ctr_nhap_gia_tri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai9/bai_tap_1/tinh_bmi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai9/thuc_hanh_1/su_kien_chuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai9/thuc_hanh_2/su_kien_ban_phim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../minitest_w1/mnt_3d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../minitest_w1/mnt_bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../minitest_w1/mnt_bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../minitest_w1/mnt_bai3a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../minitest_w1/mnt_bai3b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../minitest_w1/mnt_bai3c.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2Y9ntGdYhqhKXBKzF1MO0RQHIlB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.tinh_tong.html">
+    <configuration name="tinh_tong.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/thuchanh1/Module1/bai10/thuchanh1/tinh_tong.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="vong_lap_for.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/thuchanh1/Module1/bai10/thuchanh1/vong_lap_for.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.tinh_tong.html" />
+        <item itemvalue="JavaScript Debug.vong_lap_for.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68d81418-373f-4563-a11d-df61dc72d524" name="Changes" comment="" />
+      <created>1699946875109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699946875109</updated>
+      <workItem from="1699946876120" duration="532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
